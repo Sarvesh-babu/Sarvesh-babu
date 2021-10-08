@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sarvesh-babu
-- 👀 I’m interested in Electronics and coding
-- 🌱 I’m currently learning a lot of new trends 
-- 💞️ I’m looking to collaborate on any electrical or electronicprojects 
-- 📫 How to reach me - contact me through 900341536
+- 👀 I’m interested in Electronics and coding.
+- 🌱 I’m currently learning a lot of new trends. 
+- 💞️ I’m looking to collaborate on any electrical or electronic projects. 
 
 <!---
 Sarvesh-babu/Sarvesh-babu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
